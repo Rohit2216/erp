@@ -1,0 +1,71 @@
+Employee Name,Status,In Time,Out Time,Month,Attendance Status,Check-In Longitude,Check-In Latitude,Check-Out Longitude,Check-Out Latitude,Company/Location Name
+jitender kumar,checkIn,2024-11-09 10:51:38,N/A,November,P,N/A,N/A,N/A,N/A,N/A
+jitender kumar,checkIn,2024-11-11 09:00:00,2024-11-11 18:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+jitender kumar,checkIn,2024-11-16 16:24:03,2024-11-16 17:40:08,November,A,77.0383,28.4207,77.0383,28.4207,N/A
+jitender kumar,checkIn,2024-11-18 10:52:01,N/A,November,A,77.0399,28.4138,77.0383,28.4207,N/A
+jitender kumar,checkIn/checkout,2024-11-19 17:10:32,2024-11-19 17:11:15,November,A,77.0383,28.4207,77.0399,28.4145,N/A
+jitender kumar,checkIn/checkout,2024-11-20 18:12:22,2024-11-20 18:22:51,November,H,77.0383,28.4207,77.0449,28.4118,N/A
+jitender kumar,checkIn,2024-11-01 09:00:00,2024-11-01 14:00:00,November,H,N/A,N/A,N/A,N/A,N/A
+jitender kumar,checkIn/checkout,2024-11-23 18:14:48,2024-11-23 18:15:34,November,H,77.0449,28.4288,77.0449,28.4288,asdf
+jitender kumar,checkIn,2024-11-25 18:44:43,N/A,November,P,77.0449,28.4118,N/A,N/A,labrys
+rohit chauhan,checkIn,2024-11-09 09:00:00,2024-11-09 18:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+sakshi,checkIn,2024-11-09 14:46:31,2024-11-09 14:49:33,November,P,N/A,N/A,N/A,N/A,N/A
+sakshi,checkIn,2024-11-18 18:06:24,2024-11-18 23:52:01,November,A,77.0399,28.4138,N/A,N/A,N/A
+sakshi,checkIn,2024-11-19 10:24:28,N/A,November,A,77.0449,28.4126,N/A,N/A,N/A
+sakshi,checkIn/checkout,2024-11-20 12:47:47,2024-11-20 16:48:10,November,A,77.0449,28.4126,77.0262,28.4134,N/A
+sakshi,checkIn,2024-11-10 09:00:00,2024-11-10 18:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+sakshi,checkIn,2024-11-08 09:00:00,2024-11-20 18:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+sakshi,checkIn/checkout,2024-11-21 15:55:55,2024-11-21 15:56:00,November,H,77.0428,28.4329,77.0428,28.4329,N/A
+sakshi,checkIn,2024-11-22 16:57:14,N/A,November,P,77.0383,28.4207,N/A,N/A,N/A
+sakshi,checkIn/checkout,2024-11-23 12:58:29,2024-11-23 14:08:19,November,H,77.0449,28.4118,77.0449,28.4288,hello
+sakshi,checkIn/checkout,2024-11-25 10:56:12,2024-11-25 11:00:16,November,H,77.0233,28.4231,77.0383,28.4207,labrys
+sakshi,checkIn,2024-11-26 11:44:38,N/A,November,P,77.0449,28.4118,N/A,N/A,labrys
+nikhil,checkIn,2024-11-09 14:45:08,N/A,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-09 15:42:10,2024-11-09 15:42:15,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-09 09:00:00,2024-11-09 18:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-01 09:00:00,2024-11-09 18:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-02 00:00:00,2024-11-02 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-03 00:00:00,2024-11-03 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-04 00:00:00,2024-11-04 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-05 00:00:00,2024-11-05 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-06 00:00:00,2024-11-06 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-07 00:00:00,2024-11-07 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-08 00:00:00,2024-11-08 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-10 00:00:00,2024-11-10 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-15 00:00:00,2024-11-15 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-16 00:00:00,2024-11-16 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-17 00:00:00,2024-11-17 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-18 00:00:00,2024-11-18 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-19 00:00:00,2024-11-19 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+pooja,checkIn,2024-11-20 14:35:34,N/A,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-16 09:00:00,2024-11-16 15:42:44,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-16 15:41:30,N/A,November,P,77.0449,28.4342,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-01 00:00:00,2024-11-01 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-02 00:00:00,2024-11-02 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-03 00:00:00,2024-11-03 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-04 00:00:00,2024-11-04 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-05 00:00:00,2024-11-05 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-06 00:00:00,2024-11-06 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-07 00:00:00,2024-11-07 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-08 00:00:00,2024-11-08 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-09 00:00:00,2024-11-09 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-10 00:00:00,2024-11-10 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-11 00:00:00,2024-11-11 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-12 00:00:00,2024-11-12 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-13 00:00:00,2024-11-13 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-14 00:00:00,2024-11-14 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-15 00:00:00,2024-11-15 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-17 00:00:00,2024-11-17 00:00:00,November,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-11-18 09:00:00,2024-11-18 18:00:00,November,P,77.0399,28.4138,N/A,N/A,N/A
+Rohit chauhan,checkIn/checkout,2024-11-20 17:21:29,2024-11-20 18:06:48,November,A,77.0262,28.4134,77.0262,28.4134,N/A
+Rohit chauhan,checkIn,2024-11-22 10:37:55,N/A,November,P,77.0449,28.4118,N/A,N/A,N/A
+Rohit chauhan,checkIn/checkout,2024-11-23 16:45:25,2024-11-23 17:58:32,November,H,77.0449,28.4288,77.0449,28.4288,labrys solutions
+Rohit chauhan,checkIn/checkout,2024-11-24 11:51:23,2024-11-24 11:51:36,November,H,76.9874,28.9905,76.9874,28.9905,labrys
+Rohit chauhan,checkIn,2024-11-25 08:22:55,N/A,November,P,76.9341,28.7096,N/A,N/A,home
+Rohit chauhan,checkIn,2024-12-02 09:00:00,2024-12-17 18:00:00,December,P,N/A,N/A,N/A,N/A,N/A
+Rohit chauhan,checkIn,2024-12-17 18:47:02,N/A,December,P,77.019,28.4291,N/A,N/A,labrys
+Rohit chauhan,checkIn,2024-12-28 10:42:24,N/A,December,P,77.0383,28.4207,N/A,N/A,labrys solutons
+ramsingh,checkIn/checkout,2024-11-19 15:59:17,2024-11-19 16:28:32,November,A,77.0449,28.4126,77.0449,28.4126,N/A
+abc,checkIn,2024-11-21 10:46:19,N/A,November,P,77.0383,28.4207,N/A,N/A,N/A
+abc,checkIn/checkout,2024-11-23 18:00:07,2024-11-23 18:00:15,November,H,77.0383,28.4207,77.0383,28.4207,pacific
+abc,checkIn/checkout,2024-11-25 11:12:22,2024-11-25 11:28:24,November,H,77.0233,28.4231,77.0383,28.4207,spring house

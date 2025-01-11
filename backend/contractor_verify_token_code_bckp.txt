@@ -1,0 +1,25 @@
+//  db.query(sql, async(error, result) => {
+        //      if(error)
+        //      {
+        //         return  res.status(500).json({status: false, message: error})
+        //      }
+ 
+        //      if(result.length > process.env.VALUE_ZERO)
+        //      {
+        //          const isCorrectPassword = await bcrypt.compare(password, result[0].password)
+        //          if(isCorrectPassword)
+        //          {
+        //              delete result[0].password;
+        //              const token = jwt.sign({user_id: result[0].id, user_type: result[0].user_type}, process.env.JWT_SECRET_KEY, {expiresIn: '30d'});
+        //              return res.status(200).json({status: true, message: "Login Successfully", data: result[0], token: token})
+        //          }
+        //          else
+        //          {
+        //              return res.status(400).json({status: false, message: "Wrong Credentials"})
+        //          }
+        //      }
+        //      else
+        //      {
+        //          return res.status(500).json({status:false, message: "Email Invalid"})
+        //      }
+        //  });
